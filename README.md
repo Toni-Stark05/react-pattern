@@ -1,1 +1,1 @@
-## E-Journal"# react-pattern" 
+## react-pattern
