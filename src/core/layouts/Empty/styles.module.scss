@@ -1,0 +1,21 @@
+.EmptyLayout {
+  min-height: 100vh;
+
+  &__Container {
+    display: flex;
+    flex-direction: column;
+    padding: 0 50px;
+  }
+
+  &__ContentContainer {
+    flex-grow: 1;
+    padding: 24px 0;
+  }
+
+  &__OutletContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px;
+  }
+}
